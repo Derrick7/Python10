@@ -2,6 +2,7 @@ a=[]
 #a is the array in which temperatures are stored
 high=0
 low=100
+penis
 
 
 #def highest():
